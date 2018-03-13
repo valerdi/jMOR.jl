@@ -6,4 +6,8 @@
 
 [![codecov.io](http://codecov.io/github/valerdi/jMOR.jl/coverage.svg?branch=master)](http://codecov.io/github/valerdi/jMOR.jl?branch=master)
 
-Model Order Reduction for Julia. The documentation will be released after my PhD discussion. Cheers!
+Model Order Reduction for Julia. 
+
+The library is in the src folder. The documentation will be released after my PhD discussion. 
+
+Cheers!
