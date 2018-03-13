@@ -1,4 +1,4 @@
-# jMOR
+# jMOR v0.1
 
 [![Build Status](https://travis-ci.org/valerdi/jMOR.jl.svg?branch=master)](https://travis-ci.org/valerdi/jMOR.jl)
 
@@ -6,5 +6,4 @@
 
 [![codecov.io](http://codecov.io/github/valerdi/jMOR.jl/coverage.svg?branch=master)](http://codecov.io/github/valerdi/jMOR.jl?branch=master)
 
-The idea of MOR is to compute an approximation of a full-order problem from a small model
-in terms of degrees of freedom while keeping a good input-output accuracy.
+Model Order Reduction for Julia. The documentation will be released after my PhD discussion. Cheers!
