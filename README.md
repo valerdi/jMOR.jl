@@ -8,6 +8,8 @@
 
 Model Order Reduction for Julia. 
 
-The library is in the src folder. The documentation will be released after my PhD discussion. 
+The library is in the src folder. The documentation can be found in Chapter 3 of my PhD thesis http://eprints-phd.biblio.unitn.it/2998/1/Juan_Luis_Valerdi_Cabrera_PhD_Thesis.pdf 
+
+I'll write the documentation from my thesis here at Github very soon.
 
 Cheers!
