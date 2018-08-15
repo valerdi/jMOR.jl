@@ -1,4 +1,4 @@
-# jMOR v0.1 - Model Order Reduction for Julia. 
+# jMOR v0.1 - Model Order Reduction for Julia
 
 [![Build Status](https://travis-ci.org/valerdi/jMOR.jl.svg?branch=master)](https://travis-ci.org/valerdi/jMOR.jl)
 
