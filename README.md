@@ -1,4 +1,4 @@
-# jMOR v0.1
+# jMOR v0.1 - Model Order Reduction for Julia. 
 
 [![Build Status](https://travis-ci.org/valerdi/jMOR.jl.svg?branch=master)](https://travis-ci.org/valerdi/jMOR.jl)
 
@@ -6,7 +6,6 @@
 
 [![codecov.io](http://codecov.io/github/valerdi/jMOR.jl/coverage.svg?branch=master)](http://codecov.io/github/valerdi/jMOR.jl?branch=master)
 
-Model Order Reduction for Julia. 
 
 The library is in the src folder. The documentation can be found in Chapter 3 of my PhD thesis http://eprints-phd.biblio.unitn.it/2998/1/Juan_Luis_Valerdi_Cabrera_PhD_Thesis.pdf 
 
